@@ -1,20 +1,20 @@
 # DL-Based-Face-Emotion-Recognition
 ## *Implementation of Deep Learning Based Accurate Human Face Emotion Recognition*
 ### Introduction
-	Face Emotion Recognition systems are generally assessed in two ways: subject independent or cross-database [12]. In
+Face Emotion Recognition systems are generally assessed in two ways: subject independent or cross-database [12]. In
 the subject independent assessment, the classifier is trained on one part of the database (training set) and assessed on
 remaining images from the same database (testing set). In the cross- database method the classifier is trained on all images
 of one database and evaluated on a different one, which is new to the classifier. As one database has same settings
-(illumination, pose, resolution etc.) for all images, the former task is easier than the latter.<br/>
+(illumination, pose, resolution etc.) for all images, the former task is easier than the latter.
 ### Neural Networks
-	Deep neural networks (DNN) are becoming popular in the approaches to solve the Facial Emotion Recognition (FER)
+Deep neural networks (DNN) are becoming popular in the approaches to solve the Facial Emotion Recognition (FER)
 problem. DNN’s are neural network architectures designed in order to improve the Bigdata handling of neural networks. As
 computing power is growing by the day, DNN architectures are providing a learning architecture based on the development of
 “brain-like” structures which can find complex patterns in text, images and sound. Therefore, it is reasonable to use the
 latest techniques in the field of “deep learning” to solve the FER problem. Convolutional Neural Network (CNN) is a type of
 deep network which is traditionally being used by researchers studying computer vision and deep learning. DNN’s can perform
 well in the cross-database assessments, by training a DNN for feature recognition and extraction a face emotion recognition
-system can be designed in less time.<br/>
+system can be designed in less time.
 ### Goal of the Project
 	The goals of this project are to establish a model that can classify 7 basic emotions: happy, sad, surprise, angry,
 disgust,neutral, and fear and to achieve the accuracy better than the baseline 14.29%. In the future, the model is
