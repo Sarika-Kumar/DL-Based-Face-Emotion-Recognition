@@ -16,15 +16,15 @@ deep network which is traditionally being used by researchers studying computer 
 well in the cross-database assessments, by training a DNN for feature recognition and extraction a face emotion recognition
 system can be designed in less time.
 ### Goal of the Project
-	The goals of this project are to establish a model that can classify 7 basic emotions: happy, sad, surprise, angry,
+The goals of this project are to establish a model that can classify 7 basic emotions: happy, sad, surprise, angry,
 disgust,neutral, and fear and to achieve the accuracy better than the baseline 14.29%. In the future, the model is
 expected to perform wild emotion recognition that has more complex variance of condition than lab condition images. Facial
 Emotion Expressions (FER) are very useful in different situations in real life because they give important insights for a
 particular person. That is why they are studied in detail and applied in many systems. FER can be applied in different
 applications such as: medical treatments, human resources, police investigation, education (on students while they are in a
-lecture, customer service, journalism (during interviews) and many others.<br/>
+lecture, customer service, journalism (during interviews) and many others.
 ### Conclusion
-	This project proposes an approach for recognizing the category of facial expressions. Face Detection and Extraction
+This project proposes an approach for recognizing the category of facial expressions. Face Detection and Extraction
 of expressions from facial images is useful in many applications, such as robotics vision, video surveillance, digital
 cameras, security, and human-computer interaction. This project’s objective was to develop a facial expression recognition
 system implementing the computer visions and enhancing the advanced feature extraction and classification in face expression
