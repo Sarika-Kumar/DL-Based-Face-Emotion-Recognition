@@ -4,7 +4,7 @@
 the subject independent assessment, the classifier is trained on one part of the database (training set) and assessed on
 remaining images from the same database (testing set). In the cross- database method the classifier is trained on all images
 of one database and evaluated on a different one, which is new to the classifier. As one database has same settings
-(illumination, pose, resolution etc.) for all images, the former task is easier than the latter.__	
+(illumination, pose, resolution etc.) for all images, the former task is easier than the latter.<br/>
 	Deep neural networks (DNN) are becoming popular in the approaches to solve the Facial Emotion Recognition (FER)
 problem. DNN’s are neural network architectures designed in order to improve the Bigdata handling of neural networks. As
 computing power is growing by the day, DNN architectures are providing a learning architecture based on the development of
